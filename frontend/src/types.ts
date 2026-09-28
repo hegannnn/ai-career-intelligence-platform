@@ -1,0 +1,1 @@
+export type TabId = 'resume' | 'skills' | 'jobs';
